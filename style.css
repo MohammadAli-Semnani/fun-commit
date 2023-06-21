@@ -1,0 +1,26 @@
+body{
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e1e1e1;
+}
+.container
+{
+    position: relative;
+    width: 700px;   
+    height: 700px;
+    border-radius: 10px;
+    background-color: gray;
+}
+
+.btn
+{
+    padding: 10px 15px;
+    background-color: darkolivegreen;
+    font-size: 15px;
+    border-radius: 10px;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+}
